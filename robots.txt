@@ -1,0 +1,4 @@
+User-agent:*
+Disallow:/slike/
+
+sitemap: https://nenadmilos.github.io/Sportska-prodavnica/blob/main/sitemap.xml
